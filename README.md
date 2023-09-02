@@ -108,7 +108,7 @@ I have accumulated 2 years of experience in the software industry, encompassing 
   https://apps.apple.com/us/app/boxlty-self-tours/id1480841099
 
   _Responsibilities_: 
-    - Audio Normalization Using Python Library.
+    - Audio Normalization Using ffmpeg Library.
     - Performance optimization.
     - Video optimization.
     - Notification Extension.
@@ -119,11 +119,9 @@ I have accumulated 2 years of experience in the software industry, encompassing 
 
 <br/>
 
-- #### **Plunge**  
-  <img align="right" src="images/apps/Babz.png" width="200"/>
-
+- #### **Plunge**
+  
   _PLUNGE A Revolutionary Cold Plunge Ice Bath._  
-  https://apps.apple.com/us/app/boxlty-self-tours/id1480841099
 
   _Responsibilities_: 
     - part of UI Integration.
@@ -131,37 +129,36 @@ I have accumulated 2 years of experience in the software industry, encompassing 
     - Business logic.
     - Third-party Integration.
     - Google, Apple, Facebook SignIn Integration.
+    - WatchKit Extension
+    - Healthkit
 
-    _Stack_: UIKit, AVFoundation, BackgroundTasks, Network, UserNotifications, WebKit, Alamofire, AWSS3, DataCache, IQKeyboardManager, Kingfisher, SVProgressHUD, NotificationCenter, GoogleSignIn, FacebookCore, FacebookLogin, Viper, Source Tree, Postman, Jira, Figma, GitLab, CocoaPods, X-Code 14. x.
+    _Stack_: UIKit, AVFoundation, BackgroundTasks, Network, UserNotifications, WebKit, Alamofire, AWSS3, DataCache, IQKeyboardManager, Kingfisher, SVProgressHUD, NotificationCenter, GoogleSignIn, FacebookCore, FacebookLogin, Healthkit, Viper, Source Tree, Postman, Jira, Figma, GitLab, CocoaPods, X-Code 14. x.
 
   <br/>
 
-- #### **CreditVana**  
-  <img align="right" src="images/apps/Babz.png" width="200"/>
-
-  _Babz is US Based Social Media Application._  
-  https://apps.apple.com/us/app/boxlty-self-tours/id1480841099
+- #### **CreditVana**
+  
+  _CreditVana Application._  
 
   _Responsibilities_: 
     - part of UI Integration.
     - Part of API Integration.
-    - Onboarding Flow.
     - Business logic.
+    - Integrating Wepages Into App.
 
    _Stack_: UIKit, BackgroundTasks, Network, Alamofire, NotificationCenter, Grand Central Dispatch (GCD), MVVM, Source Tree, Postman, Jira, Figma, GitLab, CocoaPods, X-Code 14. x.
 
   <br/>
 
   - #### **Vibely**  
-  <img align="right" src="images/apps/Babz.png" width="200"/>
 
-  _Babz is US Based Social Media Application._  
-  https://apps.apple.com/us/app/boxlty-self-tours/id1480841099
-
+  _Vibely is a Social Media Application._
+  
   _Responsibilities_:
+    - Project Setup
     - part of UI Integration.
-    - Bug Fixing
-    - Onboarding Flow.
+    - Google, Apple, Facebook SignIn Integration.
+    - Customization.
     - Business logic.
 
    _Stack_: UIKit, AVFoundation, BackgroundTasks, Network, Alamofire, UserNotifications, NotificationCenter, Grand Central Dispatch (GCD), Viper, Source Tree, Postman, Jira, Figma, GitLab, CocoaPods, X-Code 14. x.
