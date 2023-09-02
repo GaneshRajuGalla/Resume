@@ -85,7 +85,6 @@ I have accumulated 2 years of experience in the software industry, encompassing 
   <img align="right" src="images/apps/Hype.png" width="200"/>
 
   _Hype is a Canda Based Social Media Application._  
-  https://apps.apple.com/us/app/boxlty-self-tours/id1480841099
 
   _Responsibilities_: 
     - Viper architecture from the ground up.
@@ -105,7 +104,6 @@ I have accumulated 2 years of experience in the software industry, encompassing 
   <img align="right" src="images/apps/Babz.png" width="200"/>
 
   _Babz is US Based Social Media Application._  
-  https://apps.apple.com/us/app/boxlty-self-tours/id1480841099
 
   _Responsibilities_: 
     - Audio Normalization Using ffmpeg Library.
