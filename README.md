@@ -1,5 +1,5 @@
 # **Ganesh Raju Galla**
-<img align="right" src="Resume/GaneshRajuGalla/Files/Ganesh.png"/>  
+<img align="right" src="GaneshRajuGalla/Files/Ganesh.png"/>  
 
 ### **iOS Developer**
 _Andhra Pradesh, India (IST+5:30)_
