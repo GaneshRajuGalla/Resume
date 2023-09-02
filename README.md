@@ -54,8 +54,8 @@ I have accumulated 2 years of experience in the software industry, encompassing 
 ### **Awards and Honors**
 | Event | Description |
 | - | - |
-| TechAhead | Best Team Player [Award22](GaneshRajuGalla/Files/2023.jpg)|
-| TechAhead | Best Team Player [Award23](GaneshRajuGalla/Files/2023.jpg)|
+| TechAhead | Best Team Player [Award22](images/2023.jpg)|
+| TechAhead | Best Team Player [Award23](images/2023.jpg)|
 | WWDC23 | Winners of WWDC23 Community Hackathon [Mapshare](https://wwdc.community/hackathon/mapshare)|
 
 ### **Projects**
