@@ -60,7 +60,7 @@ I have accumulated 2 years of experience in the software industry, encompassing 
 
 ### **Projects**
 - #### **Boxlty**  
-  <img align="right" src="GaneshRajuGalla/Files/boxlty.png" width="200"/>
+  <img align="right" src="images/apps/boxlty.png" width="200"/>
 
   _Boxlty Self Tours An Real Estate for Sale & Rent._  
   https://apps.apple.com/us/app/boxlty-self-tours/id1480841099
@@ -81,7 +81,7 @@ I have accumulated 2 years of experience in the software industry, encompassing 
 <br/>
 
 - #### **Hype**  
-  <img align="right" src="GaneshRajuGalla/Files/Hype.png" width="200"/>
+  <img align="right" src="images/apps/Hype.png" width="200"/>
 
   _Hype is a Canda Based Social Media Application._  
   https://apps.apple.com/us/app/boxlty-self-tours/id1480841099
@@ -101,7 +101,7 @@ I have accumulated 2 years of experience in the software industry, encompassing 
 <br/>
 
 - #### **Babz**  
-  <img align="right" src="GaneshRajuGalla/Files/Babz.png" width="200"/>
+  <img align="right" src="images/apps/Babz.png" width="200"/>
 
   _Babz is US Based Social Media Application._  
   https://apps.apple.com/us/app/boxlty-self-tours/id1480841099
@@ -119,7 +119,7 @@ I have accumulated 2 years of experience in the software industry, encompassing 
 <br/>
 
 - #### **Plunge**  
-  <img align="right" src="GaneshRajuGalla/Files/Babz.png" width="200"/>
+  <img align="right" src="images/apps/Babz.png" width="200"/>
 
   _PLUNGE A Revolutionary Cold Plunge Ice Bath._  
   https://apps.apple.com/us/app/boxlty-self-tours/id1480841099
@@ -136,7 +136,7 @@ I have accumulated 2 years of experience in the software industry, encompassing 
   <br/>
 
 - #### **CreditVana**  
-  <img align="right" src="GaneshRajuGalla/Files/Babz.png" width="200"/>
+  <img align="right" src="images/apps/Babz.png" width="200"/>
 
   _Babz is US Based Social Media Application._  
   https://apps.apple.com/us/app/boxlty-self-tours/id1480841099
@@ -152,7 +152,7 @@ I have accumulated 2 years of experience in the software industry, encompassing 
   <br/>
 
   - #### **Vibely**  
-  <img align="right" src="GaneshRajuGalla/Files/Babz.png" width="200"/>
+  <img align="right" src="images/apps/Babz.png" width="200"/>
 
   _Babz is US Based Social Media Application._  
   https://apps.apple.com/us/app/boxlty-self-tours/id1480841099
