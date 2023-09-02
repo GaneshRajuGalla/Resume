@@ -15,11 +15,11 @@ Links:
 * Website: https://ganeshrajugalla.github.io/Resume/
 
 ### **About**
-I have accumulated 2 years of experience in the software industry, encompassing evaluation, design, development, testing, maintenance, and production phases, all executed through the SDLC process and AGILE methodologies. My expertise includes the construction of iOS Mobile applications utilizing Swift, SwiftUI, and CocoaTouch Frameworks.
+I have accumulated 2 years of experience in the software industry, encompassing evaluation, design, development, testing, maintenance, and production phases, all executed through the SDLC process and AGILE methodologies. My expertise includes constructing iOS Mobile applications utilizing Swift, SwiftUI, and CocoaTouch Frameworks.
 
-- I possess experience working both as an Associate Software Engineer and as a Software Trainee.
+- I possess experience working as an Associate Software Engineer and a Software Trainee.
 - I have successfully participated in and contributed to the development of numerous projects across all stages, from inception to the production phase.
-- I prioritize robust architectural practices and maintain clear nomenclature within my codebase.
+- I prioritize robust architectural practices and maintain precise nomenclature within my codebase.
 - I have experience in developing and delivering iOS applications for both consumer-facing and enterprise-native purposes.
 - I have experience working within the social media and IoT-based industries.
 - I am an advocate for simplicity over complexity unless complexity is justified.
@@ -31,7 +31,7 @@ I have accumulated 2 years of experience in the software industry, encompassing 
   - Swift-3.x/4.x/5.x, C, C++, Java, Python
     
 - **Development Tools**:
-  - X-Code-12/13/14/15, GIT, GitHub, GitLab,Bitbucket, Source Tree, Postman, Jira, Figma, AdobeXD, Zoho, CocoaPods, Swift Package Manager(SPM), Android Studio, Visual Studio
+  - X-Code-12/13/14/15, GIT, GitHub, GitLab, Bitbucket, Source Tree, Postman, Jira, Figma, AdobeXD, Zoho, CocoaPods, Swift Package Manager(SPM), Android Studio, Visual Studio
     
 - **iOS Frameworks**:
   - ARKit, AVFoundation, AVKit, AssetsLibrary, AuthenticationServices, BackgroundTasks, Contacts, ContactsUI, CoreBluetooth, Combine, CoreLocation, HealthKit, HealthKitUI, LocalAuthentication, MapKit, MediaPlayer, Network, NetworkExtension, NotificationCenter, PDFKit, PencilKit, Photos, PhotosUI, ReplayKit, SafariServices, Speech, StoreKit, SwiftUI, UIKit, UserNotifications, UserNotificationsUI, Vision, VisionKit, WatchConnectivity, WebKit
