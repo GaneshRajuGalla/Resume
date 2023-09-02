@@ -19,7 +19,7 @@ main()
     cat github-markdown.css >> tmp.css
     echo "</style>" >> tmp.css
 
-    FILENAME='Ivan Zezyulya.md'
+    FILENAME='Ganesh Raju Galla.md'
     cp ../readme.md "$FILENAME"
     
     pandoc -s -f gfm -t html5 -H tmp.css "$FILENAME" > ../index.html
