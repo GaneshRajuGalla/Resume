@@ -1,5 +1,3 @@
-# Resume
-
 # **Ganesh Raju Galla**
 <img align="right" src="GaneshRajuGalla/Files/Ganesh.png"/>  
 
