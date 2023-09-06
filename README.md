@@ -157,7 +157,7 @@ I have accumulated 2 years of experience in the software industry, encompassing 
     - Project Setup
     - part of UI Integration.
     - Google, Apple, Facebook SignIn Integration.
-    - Customization.
+    - Networking layer Integration.
     - Business logic.
 
    _Stack_: UIKit, AVFoundation, BackgroundTasks, Network, Alamofire, UserNotifications, NotificationCenter, Grand Central Dispatch (GCD), Viper, Source Tree, Postman, Jira, Figma, GitLab, CocoaPods, X-Code 14. x.
