@@ -150,11 +150,11 @@ I have accumulated 2 years of experience in the software industry, encompassing 
   <br/>
 
   - #### **Vibely**
-   <img align="right" src="images/apps/Vibely.png" width="200"/>
+   <img align="right" src="images/Vibely.png" width="200"/>
 
-  _Vibely is a Social Media Application._
+   _Vibely is a Social Media Application._
   
-  _Responsibilities_:
+   _Responsibilities_:
     - Project Setup
     - UI Integration.
     - Google, Apple, Facebook SignIn Integration.
