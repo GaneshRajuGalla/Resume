@@ -35,7 +35,7 @@ I have accumulated 2 years of experience in the software industry, encompassing 
   - X-Code-12/13/14/15, GIT, GitHub, GitLab, Bitbucket, Source Tree, Postman, Jira, Figma, AdobeXD, Zoho, CocoaPods, Swift Package Manager(SPM), Android Studio, Visual Studio
     
 - **iOS Frameworks**:
-  - ARKit, AVFoundation, AVKit, AssetsLibrary, AuthenticationServices, BackgroundTasks, Contacts, ContactsUI, CoreBluetooth, Combine, CoreLocation, HealthKit, HealthKitUI, LocalAuthentication, MapKit, MediaPlayer, Network, NetworkExtension, NotificationCenter, PDFKit, PencilKit, Photos, PhotosUI, ReplayKit, SafariServices, Speech, StoreKit, SwiftUI, UIKit, UserNotifications, UserNotificationsUI, Vision, VisionKit, WatchConnectivity, WebKit
+  - ARKit, AVFoundation, AVKit, AssetsLibrary, AuthenticationServices, BackgroundTasks, Contacts, ContactsUI, CoreBluetooth, Combine, CoreLocation, HealthKit, LocalAuthentication, MapKit, MediaPlayer, Network, NetworkExtension, NotificationCenter, PDFKit, Photos, ReplayKit, SafariServices, Speech, StoreKit, SwiftUI, UIKit, UserNotifications, UserNotificationsUI, Vision, VisionKit, WatchConnectivity, WebKit
 
 - **Third Party Frameworks**:
   - Alamofire, AWSS3, Charts, Cloudinary, CryptoSwift, DataCache, FacebookCore, FacebookLogin, Firebase, Firebase/Analytics, Firebase/Crashlytics, FSCalendar, GoogleMaps, GoogleMobileAds, GooglePlaces, GoogleSignIn, IQKeyboardManager, Kingfisher, Lottie, MaterialComponents, mobile-ffmpeg-full, Mixpanel, Moya, Realm, RxSwift, SkyFloatingLabelTextField, Socket.IO, Stripe, SVProgressHUD, SwiftLint
@@ -68,8 +68,8 @@ I have accumulated 2 years of experience in the software industry, encompassing 
   https://apps.apple.com/us/app/boxlty-self-tours/id1480841099
 
   _Responsibilities_: 
-    - part of UI Integration.
-    - Part of API Integration.
+    - UI Integration.
+    - API Integration.
     - Business logic.
     - CoreBluetooth Implementation.
     - Implementation of real and fake face detection systems using ARKit.
@@ -123,8 +123,8 @@ I have accumulated 2 years of experience in the software industry, encompassing 
   _PLUNGE A Revolutionary Cold Plunge Ice Bath._  
 
   _Responsibilities_: 
-    - part of UI Integration.
-    - Part of API Integration.
+    - UI Integration.
+    - API Integration.
     - Business logic.
     - Third-party Integration.
     - Google, Apple, Facebook SignIn Integration.
@@ -140,8 +140,8 @@ I have accumulated 2 years of experience in the software industry, encompassing 
   _CreditVana Application._  
 
   _Responsibilities_: 
-    - part of UI Integration.
-    - Part of API Integration.
+    - UI Integration.
+    - API Integration.
     - Business logic.
     - Integrating Wepages Into App.
 
@@ -155,7 +155,7 @@ I have accumulated 2 years of experience in the software industry, encompassing 
   
   _Responsibilities_:
     - Project Setup
-    - part of UI Integration.
+    - UI Integration.
     - Google, Apple, Facebook SignIn Integration.
     - Networking layer Integration.
     - Business logic.
