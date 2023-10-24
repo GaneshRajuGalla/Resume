@@ -149,7 +149,8 @@ I have accumulated 2 years of experience in the software industry, encompassing 
 
   <br/>
 
-  - #### **Vibely**  
+  - #### **Vibely**
+   <img align="right" src="images/apps/Vibely.png" width="200"/>
 
   _Vibely is a Social Media Application._
   
