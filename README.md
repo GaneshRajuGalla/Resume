@@ -16,7 +16,7 @@ Links:
 * Need a PDF? [Download here](Pdf/GaneshRajuGalla.pdf)
 
 ### **About**
-I have accumulated 2 years of experience in the software industry, encompassing evaluation, design, development, testing, maintenance, and production phases, all executed through the SDLC process and AGILE methodologies. My expertise includes constructing iOS Mobile applications utilizing Swift, SwiftUI, and CocoaTouch Frameworks.
+I have accumulated 2+ years of experience in the software industry, encompassing evaluation, design, development, testing, maintenance, and production phases, all executed through the SDLC process and AGILE methodologies. My expertise includes constructing iOS Mobile applications utilizing Swift, SwiftUI, and CocoaTouch Frameworks.
 
 - I possess experience working as an Associate Software Engineer and a Software Trainee.
 - I have successfully participated in and contributed to the development of numerous projects across all stages, from inception to the production phase.
