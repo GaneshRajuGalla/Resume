@@ -135,21 +135,7 @@ I have accumulated 2 years of experience in the software industry, encompassing 
     _Stack_: UIKit, AVFoundation, BackgroundTasks, Network, UserNotifications, WebKit, Alamofire, AWSS3, DataCache, IQKeyboardManager, Kingfisher, SVProgressHUD, NotificationCenter, GoogleSignIn, FacebookCore, FacebookLogin, Healthkit, Viper, Source Tree, Postman, Jira, Figma, GitLab, CocoaPods, X-Code 14. x.
 
   <br/>
-
-- #### **CreditVana**
   
-  _CreditVana Application._  
-
-  _Responsibilities_: 
-    - UI Integration.
-    - API Integration.
-    - Business logic.
-    - Integrating Wepages Into App.
-
-   _Stack_: UIKit, BackgroundTasks, Network, Alamofire, NotificationCenter, Grand Central Dispatch (GCD), MVVM, Source Tree, Postman, Jira, Figma, GitLab, CocoaPods, X-Code 14. x.
-
-  <br/>
-
   - #### **Vibely**  
   <img align="right" src="images/apps/Vibely.png" width="200"/>
 
