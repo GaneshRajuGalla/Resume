@@ -159,7 +159,7 @@ I have accumulated 2 years of experience in the software industry, encompassing 
 
   _Responsibilities_:
     - SDK Development
-    - Implemented Prefetch Feature.
+    - Working on New Features to SDK.
     - UI Integration.
     - Unit Tests.
     - Bug Fixing.
