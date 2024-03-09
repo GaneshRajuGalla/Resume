@@ -152,7 +152,8 @@ I have accumulated 2 years of experience in the software industry, encompassing 
 
   <br/>
 
- - #### **Turbo UPI**  
+   - #### **Turbo UPI**  
+  
 
   _Turbo UPI is UPI payments SDK._  
 
@@ -160,10 +161,10 @@ I have accumulated 2 years of experience in the software industry, encompassing 
     - SDK Development
     - Implemented Prefetch Feature.
     - UI Integration.
-    - Unit Tests
-    - Bug Fixing
+    - Unit Tests.
+    - Bug Fixing.
 
-   _Stack_: UIKit, AVFoundation, BackgroundTasks, Network, Alamofire, UserNotifications, NotificationCenter, Grand Central Dispatch (GCD), Viper, Source Tree, Postman, Jira, Figma, GitLab, CocoaPods, X-Code 14. x.
+   _Stack_: UIKit, Concurrency, Network, Source Tree, Postman, Jira, Figma, GitHub, CocoaPods, X-Code 15. x.
 
   <br/>
   
