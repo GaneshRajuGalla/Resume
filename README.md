@@ -120,6 +120,7 @@ I have accumulated 2 years of experience in the software industry, encompassing 
 <br/>
 
 - #### **Plunge**
+ <img align="right" src="images/apps/coldplunge.png" width="200"/>
   
   _PLUNGE A Revolutionary Cold Plunge Ice Bath._  
 
