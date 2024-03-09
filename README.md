@@ -44,7 +44,8 @@ I have accumulated 2 years of experience in the software industry, encompassing 
 ### **Employment History**
 | Period | Description |
 | - | - |
-| Apr 2022 — Present | Associate Software Engineer at [TechAhead](https://www.techaheadcorp.com/) |
+| Nov 2023 — Present | Product Development Engineer I at [Razorpay](https://razorpay.com/) |
+| Apr 2022 — Nov 2023 | Associate Software Engineer at [TechAhead](https://www.techaheadcorp.com/) |
 | Oct 2021 — Apr 2022 | Software Trainee at [TechAhead](https://www.techaheadcorp.com/) |
 
 ### **Education History**
@@ -160,6 +161,21 @@ I have accumulated 2 years of experience in the software industry, encompassing 
     - Google, Apple, Facebook SignIn Integration.
     - Networking layer Integration.
     - Business logic.
+
+   _Stack_: UIKit, AVFoundation, BackgroundTasks, Network, Alamofire, UserNotifications, NotificationCenter, Grand Central Dispatch (GCD), Viper, Source Tree, Postman, Jira, Figma, GitLab, CocoaPods, X-Code 14. x.
+
+  <br/>
+
+ - #### **Turbo UPI**  
+
+  _Turbo UPI is UPI payments SDK._  
+
+  _Responsibilities_:
+    - SDK Development
+    - Implemented Prefetch Feature.
+    - UI Integration.
+    - Unit Tests
+    - Bug Fixing
 
    _Stack_: UIKit, AVFoundation, BackgroundTasks, Network, Alamofire, UserNotifications, NotificationCenter, Grand Central Dispatch (GCD), Viper, Source Tree, Postman, Jira, Figma, GitLab, CocoaPods, X-Code 14. x.
 
